@@ -78,6 +78,7 @@
 
 .dot-bold {
   background-color: white;
+  transition-duration: 1s;
 }
 
 
